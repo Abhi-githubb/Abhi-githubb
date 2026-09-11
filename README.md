@@ -48,7 +48,7 @@ I like building things that are useful, simple, and actually work.
 
 ### Nexus
 **Personal AI Assistant**  
-A local-first personal assistant built around memory, coding assistance, file access, internet access and natural Hinglish interaction.
+A local-first personal assistant focused on memory, coding assistance, files, internet access and natural Hinglish interaction.
 
 `Python` `FastAPI` `LLM` `Memory`
 
@@ -104,7 +104,7 @@ Long term    → Build technology that people genuinely use.
 
 ## A little philosophy
 
-> *"Your friendly neighbourhood coder."*
+> *"Same person. Bigger dreams."*
 
 > *"It is what it is."*
 
@@ -115,8 +115,6 @@ Just code, ideas, experiments, and the occasional late-night build.
 
 <div align="center">
 
-### Same person. Bigger dreams.
-
-`Build · Learn · Ship · Repeat`
+### Build · Learn · Ship · Repeat
 
 </div>

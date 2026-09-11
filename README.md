@@ -1,119 +1,122 @@
 <div align="center">
 
-# 👋 Hey, I'm Saksham Rana
+# Hey, I'm Saksham Rana.
 
-### Software Engineer • AI Builder • Backend & Data Engineering
+### Software Engineer · AI Builder · Backend & Data Engineering
 
-**I build practical software, AI systems, and automation that solve real problems.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abhi--githubb-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-githubb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+*It is what it is.*  
+*Your friendly neighbourhood coder.*
 
 </div>
 
 ---
 
-## 🧠 What I'm Building
+## About me
 
-> **Turning ideas into working systems.**
+I like building things that are useful, simple, and actually work.
 
-- 🤖 AI assistants, LLM applications & automation
-- ⚡ Backend systems with **Python, FastAPI & Redis**
-- 📊 Data engineering, analytics & SQL
-- 🧩 APIs, databases, system design & distributed-system fundamentals
-- 🚀 Product-minded engineering — build, ship, iterate
+- Building AI-powered products and automation
+- Exploring LLMs, RAG and local AI systems
+- Working with Python, SQL, FastAPI and Redis
+- Learning system design and distributed systems
+- Turning ideas into real-world software
 
----
-
-## 🚀 Featured Work
-
-### 🧠 Nexus — Personal AI Assistant
-A local-first personal AI assistant focused on memory, coding assistance, file access, internet access and Hinglish interaction.
-
-**Focus:** `LLMs` `FastAPI` `Python` `Memory Systems` `Local AI`
-
-### 📊 RetailPulse — E-Commerce Analytics Platform
-Production-grade full-stack analytics/data-engineering platform with a PostgreSQL warehouse, ETL pipeline, FastAPI API and Streamlit dashboard.
-
-**Focus:** `Python` `SQL` `PostgreSQL` `FastAPI` `Pandas` `Docker` `Data Engineering`
-
-### ⚡ Redis Systems
-Building hands-on systems with Redis to understand caching, fast key-value access, queues, sessions and backend architecture.
-
-**Focus:** `Redis` `TCP` `RESP` `Backend Systems`
-
-### 🔨 Online Auction System
-Real-time auction workflow exploring backend logic, users, bids and data persistence.
-
-**Focus:** `Backend` `APIs` `Databases` `System Design`
+> **Build quietly. Learn constantly. Let the work speak.**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-**Languages**
+**Languages**  
+`Python` · `SQL` · `JavaScript`
 
-`Python` `SQL` `JavaScript`
+**Backend & Systems**  
+`FastAPI` · `Flask` · `Redis` · `REST APIs` · `TCP` · `Linux`
 
-**Backend & Systems**
+**Data**  
+`PostgreSQL` · `Pandas` · `NumPy` · `SQLAlchemy`
 
-`FastAPI` `Flask` `Redis` `REST APIs` `TCP` `Linux`
+**AI**  
+`LLMs` · `RAG` · `OCR` · `AI Automation` · `Local AI`
 
-**Data**
-
-`PostgreSQL` `Pandas` `NumPy` `SQLAlchemy` `gspread`
-
-**AI**
-
-`LLMs` `RAG` `OCR` `AI Automation` `Local AI`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `VS Code`
+**Tools**  
+`Git` · `GitHub` · `Docker` · `VS Code`
 
 ---
 
-## 📈 GitHub Activity
+## Selected work
+
+### Nexus
+**Personal AI Assistant**  
+A local-first personal assistant built around memory, coding assistance, file access, internet access and natural Hinglish interaction.
+
+`Python` `FastAPI` `LLM` `Memory`
+
+### RetailPlus
+**E-Commerce Analytics Platform**  
+A production-grade analytics and data-engineering platform with ETL, PostgreSQL, analytical SQL, FastAPI and a Streamlit dashboard.
+
+`Python` `SQL` `PostgreSQL` `FastAPI` `Docker`
+
+### Redis Systems
+**Backend Systems & Internals**  
+Hands-on work with Redis, caching, key-value systems, TCP, RESP and backend architecture.
+
+`Python` `Redis` `TCP` `RESP`
+
+### Online Auction System
+**Full-Stack Application**  
+An auction platform exploring users, bids, backend workflows, APIs and persistent data.
+
+`Python` `Flask` `Web` `Database`
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi-githubb&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-githubb&layout=compact&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi-githubb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-githubb&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=8" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abhi-githubb&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abhi-githubb&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="165" />
 
 </div>
 
 ---
 
-## 🎯 Currently
+## Currently
 
 ```text
-Building        → AI + Automation + Backend Systems
-Learning        → System Design • SQL • Distributed Systems
-Practicing      → Data Structures & Algorithms
-Improving       → Engineering + Product + Communication
-Goal            → Build systems that people actually use
+Building     → AI + Automation + Backend Systems
+Learning     → System Design + SQL + Distributed Systems
+Practicing   → Data Structures & Algorithms
+Improving    → Engineering + Product + Communication
+
+Long term    → Build technology that people genuinely use.
 ```
 
 ---
 
-## 💭 Engineering Philosophy
+## A little philosophy
 
-**Build > Talk**
+> *"Your friendly neighbourhood coder."*
 
-I learn by building real systems, breaking them, understanding why they broke, and shipping the next version better.
+> *"It is what it is."*
+
+No unnecessary noise.  
+Just code, ideas, experiments, and the occasional late-night build.
 
 ---
 
 <div align="center">
 
-### ⚡ Build something useful. Ship it. Learn. Repeat.
+### Same person. Bigger dreams.
 
-**Thanks for visiting — explore the repositories below 👇**
+`Build · Learn · Ship · Repeat`
 
 </div>

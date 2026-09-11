@@ -1,0 +1,1 @@
+Profile assets are intentionally monochrome and minimal.

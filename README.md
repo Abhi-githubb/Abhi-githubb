@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Saksham Rana profile banner" width="100%" />
+<img src="./assets/banner.jpg" alt="Saksham Rana profile banner" width="100%" />
 
-# Hey, I'm Saksham.
+# Hey, I'm Saksham Rana.
 
-**Software Engineer · AI Builder · Backend & Data Engineering**
+### Aspiring Software Developer · Software Engineering & Web Development
 
 *It is what it is.*  ·  *Your friendly neighbourhood coder.*
 
@@ -14,33 +14,72 @@
 
 ## About me
 
-I build intelligent systems, automate boring stuff, and turn ideas into real-world software.
+I'm a third-year Computer Science undergraduate focused on **software engineering, backend development, web applications, and distributed systems**.
 
-| | | |
-|---|---|---|
-| **AI / ML** | **Backend** | **Data Engineering** |
-| LLMs · RAG · Automation | Python · FastAPI · Redis | SQL · PostgreSQL · ETL |
+I enjoy building systems from the ground up — understanding how they work internally, making them reliable, and turning ideas into working software.
 
-> **Same person. Bigger dreams.**
+> **Build quietly. Learn constantly. Let the work speak.**
 
 ---
 
-## Tech stack
+## Skills
 
-`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Redis` · `Docker` · `Linux` · `Git` · `GitHub` · `Pandas` · `NumPy` · `LLMs` · `RAG`
+**Programming & Web**  
+`Java` · `Python` · `C++` · `REST API Design` · `Backend Development` · `OOP` · `DSA`
+
+**Systems & Distributed Systems**  
+`TCP/IP` · `Java NIO` · `Concurrency` · `Multithreading` · `Client-Server Architecture` · `Sharding` · `Replication` · `Pub/Sub` · `Persistence`
+
+**Databases**  
+`MySQL` · `MongoDB` · `SQL` · `Schema Design` · `In-Memory Data Stores`
+
+**Tools & Practices**  
+`Git` · `GitHub` · `Docker` · `Docker Compose` · `Maven` · `Linux` · `SDLC` · `API Testing & Debugging`
 
 ---
 
 ## Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Nexus** | Local-first personal AI assistant | Python · FastAPI · LLM |
-| **RetailPlus** | Production-grade e-commerce analytics platform | Python · SQL · PostgreSQL |
-| **Redis Project** | Hands-on Redis and backend systems | Python · Redis |
-| **Online Auction** | Full-stack auction application | Python · Flask · Database |
-| **Telegram Management Bot** | Automation bot for Telegram | Python · Telegram API |
-| **Image Colouriser** | AI-based image colourisation | Python · OpenCV · AI |
+### Redis-Inspired Distributed In-Memory Database
+**Java · NIO · TCP/IP · RESP · Docker · Maven**
+
+A Redis-inspired in-memory database server built from scratch with event-driven I/O, concurrent client handling, TTL, Lists, Sets, Hashes, Transactions, Pub/Sub and RDB-style persistence.
+
+Also explored **sharding, primary–replica replication, resynchronization and failure recovery**, with Docker-based load testing.
+
+### AI Image Colorizer
+**Next.js · PyTorch · OpenCV · JavaScript**
+
+An AI-powered web application that converts black-and-white images into realistic colourized images using deep learning and computer-vision preprocessing.
+
+### Online Auction Platform
+**Node.js · Express.js · React.js · MongoDB**
+
+A full-stack auction platform with product listing, real-time bidding workflows, authentication, authorization and RESTful APIs for users, products, auctions and bids.
+
+### Telegram Management & Music Bot
+**Python · Telegram Bot API · Spotify/YouTube API · Heroku**
+
+A multifunctional Telegram bot for group management and music streaming, with modular command handling, admin features, API integrations and 24/7 deployment.
+
+---
+
+## Currently
+
+```text
+Building    → Backend & Web Applications
+Learning    → Distributed Systems & System Design
+Practicing  → Data Structures & Algorithms
+Exploring   → AI, APIs & Scalable Systems
+```
+
+---
+
+## Certificates
+
+`J.P. Morgan — Software Engineering Job Simulation`  
+`Deloitte — Data Analytics Job Simulation`  
+`Samsung Innovation Hackathon`
 
 ---
 
@@ -60,20 +99,9 @@ I build intelligent systems, automate boring stuff, and turn ideas into real-wor
 
 ---
 
-## Currently
-
-```text
-Building     → AI + Automation + Backend Systems
-Learning     → System Design + SQL + Distributed Systems
-Practicing   → Data Structures & Algorithms
-Improving   → Engineering + Product + Communication
-```
-
----
-
 <div align="center">
 
-*Build quietly. Learn constantly. Let the work speak.*
+*“Same person. Bigger dreams.”*
 
 **Build · Learn · Ship · Repeat**
 
